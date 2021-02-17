@@ -29,7 +29,7 @@
 			"bdth"
 		],
 		"RepoUrl": "https://github.com/maributt/BDTHPlugin",
-		"AssemblyVersion": "1.2.5",
+		"AssemblyVersion": "1.2.225",
 		"ApplicableVersion": "any",
 		"DalamudApiLevel": 2,
 		"IsHide": "False",
