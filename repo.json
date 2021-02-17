@@ -1,6 +1,6 @@
 [
 	{
-		"Author": "maributt",
+		"Author": "maributt ft. Xyghra",
 		"Name": "FPS Limiter",
 		"InternalName": "FPSLimiter",
 		"Description": "Manage your fps cap with a command and from within macros!\nExample: /fps 2  -> Refresh Rate 1/2",
@@ -8,17 +8,17 @@
 			"fps",
 			"limit"
 		],
-		"RepoUrl": "https://github.com/maributt/FPS-Limiter",
-		"AssemblyVersion": "1.0.0.0",
+		"RepoUrl": "https://github.com/Xyghra/FPS-Limiter/",
+		"AssemblyVersion": "0.57,
 		"ApplicableVersion": "any",
 		"DalamudApiLevel": 2,
 		"IsHide": "False",
 		"IsTestingExclusive": "False",
 		"DownloadCount": 42069,
 		"LastUpdate": 1609094739,
-		"DownloadLinkInstall": "https://github.com/Xyghra/FPS-Limiter/releases/download/0.5/FPSLimiter.zip",
-		"DownloadLinkTesting": "https://github.com/Xyghra/FPS-Limiter/releases/download/0.5/FPSLimiter.zip",
-		"DownloadLinkUpdate": "https://github.com/Xyghra/FPS-Limiter/releases/download/0.5/FPSLimiter.zip"
+		"DownloadLinkInstall": "https://github.com/Xyghra/FPS-Limiter/releases/download/0.7/FPSLimiter.zip",
+		"DownloadLinkTesting": "https://github.com/Xyghra/FPS-Limiter/releases/download/0.7/FPSLimiter.zip",
+		"DownloadLinkUpdate": "https://github.com/Xyghra/FPS-Limiter/releases/download/0.7/FPSLimiter.zip"
 	},
 	{
 		"Author": "LeonBlade ft. NAUGHTY",
