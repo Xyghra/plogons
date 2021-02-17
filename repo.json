@@ -11,7 +11,7 @@
 		"RepoUrl": "https://github.com/maributt/FPS-Limiter",
 		"AssemblyVersion": "1.0.0.0",
 		"ApplicableVersion": "any",
-		"DalamudApiLevel": 1,
+		"DalamudApiLevel": 2,
 		"IsHide": "False",
 		"IsTestingExclusive": "False",
 		"DownloadCount": 42069,
@@ -41,3 +41,52 @@
 		"DownloadLinkUpdate": "https://github.com/maributt/BDTHPlugin/releases/download/6.6.6/BDTHPlugin.zip"
 	}
 ]
+/*
+[
+    {
+        "Author": "ascclemens",
+        "Name": "Expanded Search Info",
+        "Description": "Displays extra information pulled from search info when examining.\n\nSupport for:\n- Any plain text URL\n- Pastebin.com\n- carrd.co/crd.co\n- F-List\n\nSimply examine someone with a search info containing pointers to one of\nthese locations and the plugin will display information automatically.",
+        "InternalName": "ExpandedSearchInfo",
+        "AssemblyVersion": "1.1.0",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 2,
+        "DownloadLinkInstall": "https://git.sr.ht/~jkcclemens/plugin_repo/blob/master/plugins/ExpandedSearchInfo/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://git.sr.ht/~jkcclemens/plugin_repo/blob/master/plugins/ExpandedSearchInfo/latest.zip",
+        "DownloadLinkUpdate": "https://git.sr.ht/~jkcclemens/plugin_repo/blob/master/plugins/ExpandedSearchInfo/latest.zip",
+        "LastUpdated": "1612491988"
+    },
+    {
+        "Author": "ascclemens",
+        "Name": "Python REPL",
+        "Description": "Allows you to use Dalamud via Python in the chat box.\n\nSupports one-liners, printing results to chat, or making full scripts over multiple commands.",
+        "InternalName": "DalamudPython",
+        "AssemblyVersion": "1.0.0",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 2,
+        "DownloadLinkInstall": "https://git.sr.ht/~jkcclemens/plugin_repo/blob/master/plugins/DalamudPython/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://git.sr.ht/~jkcclemens/plugin_repo/blob/master/plugins/DalamudPython/latest.zip",
+        "DownloadLinkUpdate": "https://git.sr.ht/~jkcclemens/plugin_repo/blob/master/plugins/DalamudPython/latest.zip",
+        "LastUpdated": "1613583472"
+    },
+    {
+        "Author": "ascclemens",
+        "Name": "Macrology",
+        "Description": "Adds a better macro system to the game.\n\nMacrology allows for macros of infinite length, adds looping,\nallows comments, supports pausing, allows you to run multiple\nmacros at once, and supports fractional waits.",
+        "InternalName": "Macrology",
+        "AssemblyVersion": "0.1.0",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 2,
+        "DownloadLinkInstall": "https://git.sr.ht/~jkcclemens/plugin_repo/blob/master/plugins/Macrology/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://git.sr.ht/~jkcclemens/plugin_repo/blob/master/plugins/Macrology/latest.zip",
+        "DownloadLinkUpdate": "https://git.sr.ht/~jkcclemens/plugin_repo/blob/master/plugins/Macrology/latest.zip",
+        "LastUpdated": "1609770452"
+    }
+]
+*/
