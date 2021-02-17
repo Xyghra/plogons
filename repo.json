@@ -9,7 +9,7 @@
 			"limit"
 		],
 		"RepoUrl": "https://github.com/Xyghra/FPS-Limiter/",
-		"AssemblyVersion": "0.57,
+		"AssemblyVersion": "0.7",
 		"ApplicableVersion": "any",
 		"DalamudApiLevel": 2,
 		"IsHide": "False",
