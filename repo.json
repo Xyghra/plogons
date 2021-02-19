@@ -39,19 +39,5 @@
 		"DownloadLinkInstall": "https://github.com/Xyghra/ScuffingDTH/releases/download/1.0/SDTHPlugin.zip",
 		"DownloadLinkTesting": "https://github.com/Xyghra/ScuffingDTH/releases/download/1.0/SDTHPlugin.zip",
 		"DownloadLinkUpdate": "https://github.com/Xyghra/ScuffingDTH/releases/download/1.0/SDTHPlugin.zip"
-	},
-	{
-		"Author": "Adam and friends",
-		"Name": "Penumbra",
-		"InternalName": "Penumbra",
-		"Description": "Pog Modding",
-		"RepoUrl": "https://github.com/xivdev/Penumbra",
-		"AssemblyVersion": "1.0.0.0",
-		"ApplicableVersion": "any",
-		"DalamudApiLevel": 69420,
-		"LoadPriority": 69420,
-		"DownloadLinkInstall": "hhttps://github.com/xivdev/Penumbra/releases/tag/0.3.2.0",
-		"DownloadLinkTesting": "https://github.com/xivdev/Penumbra/releases/tag/0.3.2.0",
-		"DownloadLinkUpdate": "https://github.com/xivdev/Penumbra/releases/tag/0.3.2.0"
 	}
 ]
